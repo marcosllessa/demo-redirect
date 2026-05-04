@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/reserva/:slug",
+      "destination": "https://wa.me/5511SEUNUMEROWABA?text=RESERVA_:slug",
+      "permanent": false
+    }
+  ]
+}
