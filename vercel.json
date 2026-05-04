@@ -3,7 +3,7 @@
   "redirects": [
     {
       "source": "/reserva/:slug",
-      "destination": "https://wa.me/5511SEUNUMEROWABA?text=RESERVA_:slug",
+      "destination": "https://wa.me/1579952143072332?text=RESERVA_:slug",
       "permanent": false
     }
   ]
